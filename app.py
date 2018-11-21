@@ -1,5 +1,5 @@
 # import necessary libraries
-from flask import Flask, render_template, jsonify, redirect
+from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
 import scrape_mars
 
